@@ -11,6 +11,7 @@ Accuracy on test set: 70.336518 %
 Pth file link:- https://drive.google.com/file/d0Bza6NQKrgl4ianJ0YnFEdGljakU/view?usp=sharing
 
 Train.py will train the model with the given dataset
+
 Test.py will test the model on test images
 
 Variation contains all the other train files which i tried
